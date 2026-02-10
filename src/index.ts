@@ -17,7 +17,7 @@ async function handleCron(env: Env) {
         return;
     }
 
-    const sourceDomain = 'cf.090227.xyz';
+    const sourceDomain = 'zecrimp.top';
     const targetDomain = 'cf.hw.072103.xyz';
 
     // 1. Resolve IPs
