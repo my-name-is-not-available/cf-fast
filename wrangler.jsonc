@@ -4,7 +4,7 @@
  */
 {
 	"$schema": "node_modules/wrangler/config-schema.json",
-	"name": "cf-fastipv4",
+	"name": "cf-fast",
 	"main": "src/index.ts",
 	"compatibility_date": "2026-02-05",
 	"observability": {
