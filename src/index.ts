@@ -17,8 +17,8 @@ async function handleCron(env: Env) {
         return;
     }
 
-    const sourceDomain = 'zecrimp.top';
-    const targetDomain = 'cf.hw.072103.xyz';
+    const sourceDomain = 'cname.vercel-dns.com';
+    const targetDomain = 'zecrimp.top';
 
     // 1. Resolve IPs
     console.log(`Resolving IPs for ${sourceDomain}...`);
